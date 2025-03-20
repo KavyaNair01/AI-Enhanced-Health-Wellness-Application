@@ -2,7 +2,7 @@
 
 🚀 **An AI-powered application for personalized meal planning, dietary tracking, and fitness recommendations.**
 
-![App Interface](app_interface.png)
+![App Interface](website.png)
 
 ## 📌 Project Overview
 The **AI-Enhanced Health & Wellness Application** aims to revolutionize personal health management by integrating meal planning, dietary tracking, and habit coaching into a user-friendly platform. By leveraging **OpenAI API**, **machine learning models**, and **big data analytics**, this application provides **personalized health recommendations** based on individual user preferences.
